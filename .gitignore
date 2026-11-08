@@ -1,0 +1,3 @@
+# WordPress config (database credentials and secret keys)
+app/public/wp-config.php
+*.log
